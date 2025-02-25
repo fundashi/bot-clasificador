@@ -1,0 +1,1 @@
+Este bot funciona de manera sencilla, tu le das unas imágenes y dependiendo si son vidrio, botellas plasticas, bolsas plasticas o latas de aluminio, este te lo dirá, funciona gracias a un modelo entrenado de keras, el cuál fue entrenado con varias imágenes para dar una mayor presición, pero puede equivocarse
