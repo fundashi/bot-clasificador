@@ -1,0 +1,4 @@
+0 botella de plastico
+1 lata de aluminio
+2 bolsa de plastico
+3 vidrio
